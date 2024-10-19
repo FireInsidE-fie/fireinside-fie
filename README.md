@@ -1,6 +1,6 @@
 hi hey hello :>
 
-![I really like minori from project sekai! she's one of my role models really](https://media1.tenor.com/m/dJCuX1YN-eMAAAAC/hanasato-minori-project-sekai.gif)
+![I really like minori from project sekai! she's one of my role models really](https://cdn.donmai.us/original/a5/67/__hanasato_minori_project_sekai_drawn_by_ap_bar__a56729c90a2a33a795b0911404e1931d.jpg)
 
 I'm just a silly software development student living in Switzerland, currently attending the 42 school in Lausanne.
 I have some C and web front-end experience- but that's about it! actively working to better myself and always learning new things :3
