@@ -3,10 +3,10 @@ hi hey hello :>
 ![I really like minori from project sekai! she's one of my role models really](minori_fan.jpg)
 
 I'm just a silly software development student living in Switzerland, currently attending the 42 school in Lausanne.
-I have some C and web front-end experience- but that's about it! actively working to better myself and always learning new things :3
+I have some C and web front-end experience! actively working to better myself and always learning new things :3
 
 # skills!
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,clion,bash,git,vim,neovimm,vscode,notion,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,html,css,c,clion,bash,git,vim,neovim,vscode,notion,obsidian,blender)](https://skillicons.dev)
 
 <!--
 **FireInsidE-fie/fireinside-fie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
