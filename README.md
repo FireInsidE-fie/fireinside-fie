@@ -6,7 +6,7 @@ I'm just a silly software development student living in Switzerland, currently a
 I have some C and web front-end experience! actively working to better myself and always learning new things :3
 
 # skills!
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,html,css,c,clion,bash,git,vim,neovim,vscode,notion,obsidian,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,html,css,c,cpp,clion,bash,git,vim,neovim,vscode,notion,obsidian,blender)](https://skillicons.dev)
 
 <!--
 **FireInsidE-fie/fireinside-fie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
