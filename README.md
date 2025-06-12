@@ -3,7 +3,7 @@ hi hey hello :>
 ![I really like minori from project sekai! she's one of my role models really](minori_fan.jpg)
 
 I'm just a silly software development student living in Switzerland, currently attending the 42 school in Lausanne.
-I have some C and web front-end experience! actively working to better myself and always learning new things :3
+I have some C and C++ experience! actively working to better myself and always learning new things :3
 
 # skills!
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,html,css,c,cpp,clion,bash,git,vim,neovim,vscode,discord,notion,obsidian,blender)](https://skillicons.dev)
