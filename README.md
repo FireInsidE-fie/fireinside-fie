@@ -1,7 +1,5 @@
 hi hey hello :>
 
-![I really like minori from project sekai! she's one of my role models really](minori_fan.jpg)
-
 I'm just a silly software development student living in Switzerland, currently attending the 42 school in Lausanne.
 I have some C and C++ experience! actively working to better myself and always learning new things :3
 
